@@ -1,4 +1,4 @@
-* books
-* sweets
-* running
-* gym
+- [ ] books
+- [ ] sweets
+- [ ] running
+- [ ] gym
