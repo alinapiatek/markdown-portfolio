@@ -1,6 +1,5 @@
 ---
 layout: default
-ghfhgf
 ---
 
 {% include 01-name.md %}
